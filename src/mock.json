@@ -1,0 +1,32 @@
+{
+  "boards": [
+    {
+      "title": "Sales",
+      "num_tasks": 0,
+      "tasks": [
+        {
+          "description": "",
+          "status": ""
+        },
+        {
+          "description": "",
+          "status": ""
+        }
+      ]
+    },
+    {
+      "title": "R&D",
+      "num_tasks": 0,
+      "tasks": [
+        {
+          "description": "",
+          "status": ""
+        },
+        {
+          "description": "",
+          "status": ""
+        }
+      ]
+    }
+  ]
+}
